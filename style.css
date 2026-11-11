@@ -63,3 +63,8 @@ li {
     font-size: 25px;
     font-weight: bold;
 }
+
+.ection-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+}
